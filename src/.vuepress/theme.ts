@@ -1,33 +1,31 @@
 import { hopeTheme } from 'vuepress-theme-hope';
 import navbar from './navbar.js';
-import sidebar from './sidebar.js';
+import { getDirname, path } from '@vuepress/utils';
+const __dirname = getDirname(import.meta.url);
 
 export default hopeTheme({
-  hostname: 'https://mister-hope.github.io',
+  hostname: 'https://www.dennisdong.top',
   author: {
     name: 'Dennis',
     url: 'https://github.com/dennis-dong',
   },
   iconAssets: 'fontawesome-with-brands',
   logo: '/assets/imgs/logo.jpg',
-  repo: 'vuepress-theme-hope/vuepress-theme-hope111',
+  repo: 'dennis-dong/dennis-dong.github.io',
   docsDir: 'src',
   // navbar
   navbar,
-  // sidebar
-  sidebar,
+  // sidebar auto
   footer: '世间所有的相遇,都是久别重逢',
   displayFooter: true,
   blog: {
     avatar: '/assets/imgs/avatar.jpg',
     name: 'Dennis',
     description: '',
-    // intro: '/intro.html',
     medias: {
-      Baidu: 'https://example.com',
-      BiliBili: 'https://example.com',
-      Bitbucket: 'https://example.com',
-      Dingding: 'https://example.com',
+      GitHub: 'https://github.com/dennis-dong',
+      Gitee: 'https://gitee.com/dennisdong',
+      CnBlogs: ['https://www.cnblogs.com/dennisdong', path.resolve(__dirname, 'public/assets/imgs/cnblogs.svg')],
     },
   },
   encrypt: {

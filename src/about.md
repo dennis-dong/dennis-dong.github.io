@@ -1,5 +1,6 @@
 ---
-
+icon: circle-info
+date: 2023-08-21
 ---
 
 # 关于本站
@@ -16,11 +17,11 @@
 
 ## 部署
 
-> 本站采用[Vercel](https://vercel.com/)自动化部署，使用教程自行查阅，可参考[vuepress-theme-hope文档](https://theme-hope.vuejs.press/zh/)
+> 本站采用[Vercel](https://vercel.com/)自动化部署，使用教程自行查阅，可参考[vuepress-theme-hope 文档](https://theme-hope.vuejs.press/zh/)
 
 ## 图片说明
 
-> 因本站文章中的图片存储在github上，所以有些用户可能无法正常显示，需要科学上网或者推荐使用加速工具来访问，例如：[FastGithub](https://github.com/dotnetcore/FastGithub)或者[dev-sidecar](https://github.com/docmirror/dev-sidecar)
+> 因本站文章中的图片存储在 **github** 上，所以有些用户可能无法正常显示，需要科学上网或者推荐使用加速工具来访问，例如：[FastGithub](https://github.com/dotnetcore/FastGithub)或者[dev-sidecar](https://github.com/docmirror/dev-sidecar)
 
 ## 写在最后
 
