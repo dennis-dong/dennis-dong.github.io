@@ -1,4 +1,4 @@
-import { sidebar } from "vuepress-theme-hope";
+import { sidebar } from 'vuepress-theme-hope';
 
 export default sidebar({
   '/': [
@@ -6,6 +6,11 @@ export default sidebar({
       text: '首页',
       link: '/',
       icon: 'home',
+    },
+    {
+      text: '留言板',
+      link: '/comment',
+      icon: 'comments',
     },
     {
       text: '关于',

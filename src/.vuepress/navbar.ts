@@ -7,6 +7,11 @@ export default navbar([
     icon: 'home',
   },
   {
+    text: '留言板',
+    link: '/comment',
+    icon: 'comments',
+  },
+  {
     text: '关于',
     link: '/about',
     icon: 'circle-info',
