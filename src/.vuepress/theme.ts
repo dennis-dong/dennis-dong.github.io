@@ -42,7 +42,7 @@ export default hopeTheme({
     comment: {
       // You should generate and use your own comment service
       provider: 'Waline',
-      serverURL: 'https://waline-comment.vuejs.press',
+      serverURL: 'https://waline.dennisdong.top',
     },
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
