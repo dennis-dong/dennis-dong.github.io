@@ -3,6 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
+order: 1
 heroImage: ''
 bgImage: '/assets/imgs/bg_home.gif'
 heroText: Dennis

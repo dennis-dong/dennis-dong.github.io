@@ -7,26 +7,37 @@ export default hopeTheme({
   hostname: 'https://www.dennisdong.top',
   author: {
     name: 'Dennis',
-    url: 'https://github.com/dennis-dong',
+    url: 'https://www.dennisdong.top',
   },
   iconAssets: 'fontawesome-with-brands',
   logo: '/assets/imgs/logo.jpg',
+  // fullscreen: true,
   repo: 'dennis-dong/dennis-dong.github.io',
+  repoDisplay: false,
   docsDir: 'src',
   // navbar
   navbar,
-  // sidebar auto
+  // sidebar
+  sidebar: 'structure',
+  sidebarSorter: ['order'],
+  pageInfo: ['Author', 'Date', 'Original', 'PageView', 'Word', 'ReadingTime', 'Category'],
+  copyright: '2020 - 至今 © Dennis',
   footer: '世间所有的相遇,都是久别重逢',
   displayFooter: true,
+
+  // 博客设置
   blog: {
-    avatar: '/assets/imgs/avatar.jpg',
     name: 'Dennis',
     description: '',
+    avatar: '/assets/imgs/avatar.jpg',
+    roundAvatar: true,
+    // intro: '/about',
     medias: {
       GitHub: 'https://github.com/dennis-dong',
       Gitee: 'https://gitee.com/dennisdong',
       CnBlogs: ['https://www.cnblogs.com/dennisdong', path.resolve(__dirname, 'public/assets/imgs/cnblogs.svg')],
     },
+    articleInfo: ['Author', 'Date', 'Original', 'PageView', 'Word', 'ReadingTime', 'Category'],
   },
   encrypt: {
     config: {},

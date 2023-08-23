@@ -1,24 +1,25 @@
 ---
+title: ElasticSearch使用说明
 date: 2020-10-29
 category:
-  - ElasticSearch
+  - ES
 tag:
-  - ElasticSearch
+  - ES
 ---
 
-# ElasticSearch使用说明
+<!-- more -->
 
 ## 1. 索引 index，相当于数据库表Table
 
 ### 1.1 查看所有索引
 
-``` json
+``` http
 GET _cat/indices?v
 ```
 
 ### 1.2 创建索引字段映射关系
 
-``` json
+``` http
 PUT /test
 {
   "settings": {
@@ -66,7 +67,7 @@ GET /test/_mappings
 
 ### 1.4 添加索引字段
 
-```json
+```http
 POST /test/_mappings
 {
   "properties": {
@@ -79,7 +80,7 @@ POST /test/_mappings
 
 ### 1.5 删除索引
 
-```json
+```http
 DELETE /test
 ```
 
@@ -89,7 +90,7 @@ DELETE /test
 
 ### 2.1 添加数据
 
-```json
+```http
 POST test/_doc
 {
   "name": "dennis",
@@ -101,7 +102,7 @@ POST test/_doc
 
 ### 2.2 修改数据（全量）
 
-```json
+```http
 PUT test/_doc/<id>
 {
   "name": "dennis1",
@@ -113,7 +114,7 @@ PUT test/_doc/<id>
 
 ### 2.3 修改数据（局部）
 
-```json
+```http
 POST test/_update/<id>
 {
   "doc": {
@@ -125,13 +126,13 @@ POST test/_update/<id>
 
 ### 2.4 删除数据
 
-```json
+```http
 DELETE /test/_doc/<id>
 ```
 
 ### 2.5 查询全部数据
 
-```json
+```http
 GET test/_search
 {
   "query": {
@@ -142,7 +143,7 @@ GET test/_search
 
 ### 2.6 分词查询（text类型的字段才支持分词查询）
 
-```json
+```http
 GET test/_search
 {
   "query": {
@@ -155,7 +156,7 @@ GET test/_search
 
 ### 2.7 精确查询
 
-```json
+```http
 GET test/_search
 {
   "query": {
@@ -172,7 +173,7 @@ GET test/_search
 
 ### 3.1 多条件查询（and）
 
-```json
+```http
 GET test/_search
 {
   "query": {
@@ -199,7 +200,7 @@ GET test/_search
 
 ### 3.2 多条件查询（or）
 
-```json
+```http
 GET test/_search
 {
   "query": {
@@ -226,7 +227,7 @@ GET test/_search
 
 ### 3.3 分组查询
 
-```json
+```http
 # 汇总条目
 GET test/_search
 {

@@ -7,18 +7,18 @@ export default navbar([
     icon: 'home',
   },
   {
-    text: '关于本站',
-    link: '/about',
-    icon: 'circle-info',
-  },
-  {
     text: '留言板',
-    link: '/comment',
+    link: '/comment/',
     icon: 'comment-dots',
   },
   {
+    text: '关于本站',
+    link: '/about/',
+    icon: 'circle-info',
+  },
+  {
     text: '归档',
-    link: '/archives',
+    link: '/archives/',
     icon: 'book',
   },
 ]);
