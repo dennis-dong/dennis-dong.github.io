@@ -25,7 +25,8 @@ article: false
 ## 图片说明
 
 > 因本站文章中的图片存储在 **github** 上，所以有些用户可能无法正常显示，需要科学上网或者推荐使用加速工具来访问，例如：[FastGithub](https://github.com/dotnetcore/FastGithub)或者[dev-sidecar](https://github.com/docmirror/dev-sidecar)
-
+> 
+> 你也可以去[我的博客园](https://www.cnblogs.com/dennisdong)进行查看，文章同步更新
 ## 写在最后
 
 > 有任何问题请留言，看到会及时回复，谢谢大家的光临！
