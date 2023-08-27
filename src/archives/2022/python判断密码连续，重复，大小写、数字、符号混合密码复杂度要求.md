@@ -1,5 +1,6 @@
 ---
 title: python判断密码连续，重复，大小写、数字、符号混合密码复杂度要求
+description: python判断密码连续，重复，大小写、数字、符号混合密码复杂度要求
 date: 2022-09-22
 category:
   - Python

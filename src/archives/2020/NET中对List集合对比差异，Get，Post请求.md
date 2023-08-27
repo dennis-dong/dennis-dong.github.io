@@ -1,5 +1,6 @@
 ---
 title: NET中对List集合对比差异，Get，Post请求
+description: NET中对List集合对比差异，Get，Post请求
 date: 2020-07-29
 category:
   - Net

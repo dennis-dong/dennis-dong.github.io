@@ -1,5 +1,6 @@
 ---
 title: CentOS安装mariadb以及更改数据库存储路径
+description: CentOS安装mariadb以及更改数据库存储路径
 date: 2022-05-16
 category:
   - CentOS

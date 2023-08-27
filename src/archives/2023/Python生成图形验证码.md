@@ -1,5 +1,6 @@
 ---
 title: Python生成图形验证码
+description: Python生成图形验证码
 date: 2023-06-30
 category:
   - Python

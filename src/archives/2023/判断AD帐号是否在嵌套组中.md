@@ -1,5 +1,6 @@
 ---
 title: 判断AD帐号是否在嵌套组中
+description: 判断AD帐号是否在嵌套组中
 date: 2023-03-01
 category:
   - Python

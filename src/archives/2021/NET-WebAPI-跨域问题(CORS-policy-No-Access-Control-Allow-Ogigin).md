@@ -1,5 +1,6 @@
 ---
 title: NET WebAPI 跨域问题(CORS policy No Access-Control-Allow-Ogigin)
+description: NET WebAPI 跨域问题(CORS policy No Access-Control-Allow-Ogigin)
 date: 2021-12-23
 category:
   - Net

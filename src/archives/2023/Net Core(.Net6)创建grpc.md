@@ -1,5 +1,6 @@
 ---
 title: Net Core(.Net6)创建grpc
+description: Net Core(.Net6)创建grpc
 date: 2023-02-14
 category:
   - .Net

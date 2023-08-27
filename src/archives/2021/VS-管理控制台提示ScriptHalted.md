@@ -1,5 +1,6 @@
 ---
-title: VS 管理控制台提示ScriptHalted
+title: Visual Studio 管理控制台提示ScriptHalted
+description: Visual Studio 管理控制台提示ScriptHalted
 date: 2021-07-28
 category:
   - Visual Studio

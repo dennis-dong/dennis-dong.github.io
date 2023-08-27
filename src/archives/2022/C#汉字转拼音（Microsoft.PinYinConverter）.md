@@ -1,5 +1,6 @@
 ---
 title: C#汉字转拼音（Microsoft.PinYinConverter）
+description: C#汉字转拼音（Microsoft.PinYinConverter）
 date: 2022-02-28
 category:
   - Net

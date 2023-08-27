@@ -1,5 +1,6 @@
 ---
 title: windows10、windows server 2016激活方法
+description: windows10、windows server 2016激活方法
 date: 2021-12-17
 category:
   - Windows

@@ -1,5 +1,6 @@
 ---
 title: Net FrameWork创建grpc
+description: Net FrameWork创建grpc
 date: 2023-02-14
 category:
   - .Net

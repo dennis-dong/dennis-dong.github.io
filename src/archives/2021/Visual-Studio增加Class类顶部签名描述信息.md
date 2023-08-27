@@ -1,5 +1,6 @@
 ---
 title: Visual Studio增加Class类顶部签名描述信息
+description: Visual Studio增加Class类顶部签名描述信息
 date: 2021-12-23
 category:
   - Visual Studio

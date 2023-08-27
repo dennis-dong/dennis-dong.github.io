@@ -1,5 +1,6 @@
 ---
 title: Net和.NetCore WebAPI批量上传文件以及文件操作(支持模糊匹配)
+description: Net和.NetCore WebAPI批量上传文件以及文件操作(支持模糊匹配)
 date: 2022-02-24
 category:
   - Net

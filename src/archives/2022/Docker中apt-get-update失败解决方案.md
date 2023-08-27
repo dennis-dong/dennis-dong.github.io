@@ -1,5 +1,6 @@
 ---
 title: Docker中apt-get update失败解决方案
+description: Docker中apt-get update失败解决方案
 date: 2022-10-29
 category:
   - Docker

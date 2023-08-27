@@ -1,5 +1,6 @@
 ---
 title: vs code 关联gitee码云或github以及GIT 常用命令
+description: vs code 关联gitee码云或github以及GIT 常用命令
 date: 2021-03-03
 category:
   - Visual Studio Code

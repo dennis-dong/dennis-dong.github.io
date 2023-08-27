@@ -1,5 +1,6 @@
 ---
 title: Linux 常用命令（测试于CentOS8版本）
+description: Linux 常用命令（测试于CentOS8版本）
 date: 2020-08-24
 category:
   - Linux

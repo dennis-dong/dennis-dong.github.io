@@ -1,5 +1,6 @@
 ---
 title: EF Core DBFirst和CodeFirst 模式使用方法
+description: EF Core DBFirst和CodeFirst 模式使用方法
 date: 2021-08-02
 category:
   - Net

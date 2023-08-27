@@ -1,5 +1,6 @@
 ---
 title: SqlServer Express 自动备份数据库(没有sql代理服务的情况下)
+description: SqlServer Express 自动备份数据库(没有sql代理服务的情况下)
 date: 2021-10-26
 category:
   - SQL

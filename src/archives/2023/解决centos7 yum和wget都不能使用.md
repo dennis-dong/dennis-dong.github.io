@@ -1,5 +1,6 @@
 ---
 title: 解决centos7 yum和wget都不能使用
+description: 解决centos7 yum和wget都不能使用
 date: 2023-01-09
 category:
   - CentOS

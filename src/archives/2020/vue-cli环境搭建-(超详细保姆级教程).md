@@ -1,5 +1,6 @@
 ---
 title: vue-cli环境搭建 (超详细保姆级教程)
+description: vue-cli环境搭建 (超详细保姆级教程)
 date: 2020-09-24
 category:
   - NodeJS

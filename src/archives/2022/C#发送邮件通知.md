@@ -1,5 +1,6 @@
 ---
 title: C#发送邮件通知
+description: C#发送邮件通知
 date: 2022-03-02
 category:
   - Net

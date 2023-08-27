@@ -1,5 +1,6 @@
 ---
 title: AD获取成员隶属组成员InvokeGet("memberOf")
+description: AD获取成员隶属组成员InvokeGet("memberOf")
 date: 2021-08-13
 category:
   - Net

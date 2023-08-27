@@ -1,5 +1,6 @@
 ---
 title: window安装管理多版本python
+description: window安装管理多版本python
 date: 2023-07-07
 category:
   - Windows

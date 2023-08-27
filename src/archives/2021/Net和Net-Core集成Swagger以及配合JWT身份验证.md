@@ -1,5 +1,6 @@
 ---
 title: Net和Net Core集成Swagger以及配合JWT身份验证
+description: Net和Net Core集成Swagger以及配合JWT身份验证
 date: 2021-12-22
 category:
   - Net

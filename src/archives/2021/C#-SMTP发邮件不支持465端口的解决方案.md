@@ -1,5 +1,6 @@
 ---
 title: C# SMTP发邮件不支持465端口的解决方案
+description: C# SMTP发邮件不支持465端口的解决方案
 date: 2021-07-10
 category:
   - Net

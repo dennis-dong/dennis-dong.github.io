@@ -1,5 +1,6 @@
 ---
 title: NET和NET Core使用JWT授权验证
+description: NET和NET Core使用JWT授权验证
 date: 2021-12-22
 category:
   - Net

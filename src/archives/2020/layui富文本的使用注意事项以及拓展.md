@@ -1,5 +1,6 @@
 ---
 title: layui富文本的使用注意事项以及拓展
+description: layui富文本的使用注意事项以及拓展
 date: 2020-07-16
 category:
   - Web

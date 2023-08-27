@@ -1,5 +1,6 @@
 ---
 title: centos7 在线或离线安装python3
+description: centos7 在线或离线安装python3
 date: 2023-01-09
 category:
   - CentOS

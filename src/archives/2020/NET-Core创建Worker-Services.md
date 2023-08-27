@@ -1,5 +1,6 @@
 ---
 title: NET Core创建Worker Services
+description: NET Core创建Worker Services
 date: 2020-06-24
 category:
   - Net
