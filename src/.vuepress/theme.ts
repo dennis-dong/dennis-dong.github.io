@@ -21,7 +21,7 @@ export default hopeTheme({
   sidebar: 'structure',
   sidebarSorter: ['order'],
   pageInfo: ['Author', 'Date', 'Original', 'PageView', 'Word', 'ReadingTime', 'Category'],
-  copyright: '2020 - 至今 © Dennis',
+  copyright: '2020 - 至今 © Dennis | <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备18024539号-1</a>',
   footer: '世间所有的相遇,都是久别重逢',
   displayFooter: true,
 
